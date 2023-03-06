@@ -2,7 +2,7 @@
 This is a weather app created by using HTML, CSS and VanillaJS. 
 The app allows users to search for the current weather conditions and six-day forecast for any location. 
 
-# This JavaScript file contains various functions used in a weather app built using Vanilla JS, HTML, and CSS. 
+# This JavaScript file contains various functions used in a weather app built using Vanilla JS, HTML, and CSS (Sassy CSS). 
 The functions handle tasks such as setting the placeholder text for the search bar based on screen size, 
 displaying error messages, adding a spinner animation to a button, updating the display with weather information, 
 and creating and displaying divs for the current weather conditions and six-day forecast.
