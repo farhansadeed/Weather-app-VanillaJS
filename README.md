@@ -2,7 +2,7 @@
 This is a weather app created by using HTML, CSS and VanillaJS. 
 The app allows users to search for the current weather conditions and six-day forecast for any location. 
 
-- This JavaScript file contains various functions used in a weather app built using Vanilla JS, HTML, and CSS. 
+# This JavaScript file contains various functions used in a weather app built using Vanilla JS, HTML, and CSS. 
 The functions handle tasks such as setting the placeholder text for the search bar based on screen size, 
 displaying error messages, adding a spinner animation to a button, updating the display with weather information, 
 and creating and displaying divs for the current weather conditions and six-day forecast.
@@ -13,7 +13,7 @@ such as translating weather icons to FontAwesome icons, converting temperature a
 - This file can be included in a larger weather app project and used as a module to handle various UI and 
 data manipulation tasks. The functions are organized and named in a clear and understandable way, making it easy to navigate and modify as needed.
 
-- The CurrentLocation class represents the current location and has properties for the 
+The CurrentLocation class represents the current location and has properties for the 
 name, latitude, longitude, and unit of measurement. It also has methods for getting and setting these properties and toggling the unit of measurement.
 - setLocationObject is a function that takes a locationObj and a coordsObj as arguments, 
 extracts the latitude, longitude, name, and unit of measurement from the coordsObj, 
