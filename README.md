@@ -1,6 +1,6 @@
 # Weather-app-VanillaJS
 
-![Weather-app-VanillaJS](https://socialify.git.ci/farhansadeed/Weather-app-VanillaJS/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+![Weather-app-VanillaJS](https://socialify.git.ci/farhansadeed/Weather-app-VanillaJS/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
 This is a weather app created by using HTML, CSS and VanillaJS. 
 The app allows users to search for the current weather conditions and six-day forecast for any location. 
