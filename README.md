@@ -1,4 +1,4 @@
-# Weather Infromation and Forecast Application by VanillaJS
+# Weather Information and Forecast Application by VanillaJS
 
 ![Weather-app-VanillaJS](https://socialify.git.ci/farhansadeed/Weather-app-VanillaJS/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
